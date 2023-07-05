@@ -1,0 +1,32 @@
+{"level":20,"time":1688000295049,"pid":500,"hostname":"DESKTOP-7TCP1F6","msg":"Skipping slash command leaderboard. Disabled!"}
+{"level":20,"time":1688000295052,"pid":500,"hostname":"DESKTOP-7TCP1F6","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1688000295091,"pid":500,"hostname":"DESKTOP-7TCP1F6","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1688000295093,"pid":500,"hostname":"DESKTOP-7TCP1F6","msg":"Skipping slash command emoji. Disabled!"}
+{"level":20,"time":1688000295102,"pid":500,"hostname":"DESKTOP-7TCP1F6","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1688000295103,"pid":500,"hostname":"DESKTOP-7TCP1F6","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1688000295105,"pid":500,"hostname":"DESKTOP-7TCP1F6","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1688000295106,"pid":500,"hostname":"DESKTOP-7TCP1F6","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1688000295116,"pid":500,"hostname":"DESKTOP-7TCP1F6","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1688000295117,"pid":500,"hostname":"DESKTOP-7TCP1F6","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1688000295118,"pid":500,"hostname":"DESKTOP-7TCP1F6","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1688000295119,"pid":500,"hostname":"DESKTOP-7TCP1F6","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1688000295120,"pid":500,"hostname":"DESKTOP-7TCP1F6","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1688000295121,"pid":500,"hostname":"DESKTOP-7TCP1F6","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1688000295121,"pid":500,"hostname":"DESKTOP-7TCP1F6","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1688000295122,"pid":500,"hostname":"DESKTOP-7TCP1F6","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1688000295123,"pid":500,"hostname":"DESKTOP-7TCP1F6","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1688000295125,"pid":500,"hostname":"DESKTOP-7TCP1F6","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1688000295127,"pid":500,"hostname":"DESKTOP-7TCP1F6","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1688000295129,"pid":500,"hostname":"DESKTOP-7TCP1F6","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1688000295131,"pid":500,"hostname":"DESKTOP-7TCP1F6","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1688000295133,"pid":500,"hostname":"DESKTOP-7TCP1F6","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1688000295141,"pid":500,"hostname":"DESKTOP-7TCP1F6","msg":"Skipping slash command rolebuttons. Disabled!"}
+{"level":30,"time":1688000295141,"pid":500,"hostname":"DESKTOP-7TCP1F6","msg":"Loaded 40 commands"}
+{"level":30,"time":1688000295141,"pid":500,"hostname":"DESKTOP-7TCP1F6","msg":"Loaded 25 slash commands"}
+{"level":30,"time":1688000295143,"pid":500,"hostname":"DESKTOP-7TCP1F6","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1688000295143,"pid":500,"hostname":"DESKTOP-7TCP1F6","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1688000295197,"pid":500,"hostname":"DESKTOP-7TCP1F6","msg":"Loaded 11 events. Success (11) Failed (0)"}
+{"level":30,"time":1688000295197,"pid":500,"hostname":"DESKTOP-7TCP1F6","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1688000296252,"pid":500,"hostname":"DESKTOP-7TCP1F6","msg":"Mongoose: Connected"}
+{"level":30,"time":1688000298391,"pid":500,"hostname":"DESKTOP-7TCP1F6","msg":"Logged in as Uverseni#2940!"}
+{"level":30,"time":1688000298927,"pid":500,"hostname":"DESKTOP-7TCP1F6","msg":"Successfully registered interactions"}

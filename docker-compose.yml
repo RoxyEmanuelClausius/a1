@@ -1,0 +1,29 @@
+services:
+  lavalink:
+    image: fredboat/lavalink
+    container_name: callista_lava
+    restart: always
+    ports:
+      - "2333:2333"
+    networks:
+      - nabe
+    volumes:
+      - ./opt/Lavalink:/opt/Lavalink
+
+  bot:
+    build: ./
+    container_name: callista
+    environment:
+      - lava_host=lavalink
+      - lava_password=youshallnotpass
+      - lava_port=2333
+    restart: always
+    depends_on:
+      - lavalink
+      - postgres
+    networks:
+      - nabe
+
+networks:
+  nabe:
+    driver: bridge

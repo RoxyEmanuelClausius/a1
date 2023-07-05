@@ -1,0 +1,34 @@
+{"level":20,"time":1687855969076,"pid":3296,"hostname":"DESKTOP-7TCP1F6","msg":"Skipping slash command leaderboard. Disabled!"}
+{"level":20,"time":1687855969096,"pid":3296,"hostname":"DESKTOP-7TCP1F6","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1687855971348,"pid":3296,"hostname":"DESKTOP-7TCP1F6","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1687855971366,"pid":3296,"hostname":"DESKTOP-7TCP1F6","msg":"Skipping slash command emoji. Disabled!"}
+{"level":20,"time":1687855971470,"pid":3296,"hostname":"DESKTOP-7TCP1F6","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1687855971494,"pid":3296,"hostname":"DESKTOP-7TCP1F6","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1687855971511,"pid":3296,"hostname":"DESKTOP-7TCP1F6","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1687855971521,"pid":3296,"hostname":"DESKTOP-7TCP1F6","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1687855971641,"pid":3296,"hostname":"DESKTOP-7TCP1F6","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1687855971659,"pid":3296,"hostname":"DESKTOP-7TCP1F6","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1687855971677,"pid":3296,"hostname":"DESKTOP-7TCP1F6","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1687855971687,"pid":3296,"hostname":"DESKTOP-7TCP1F6","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1687855971697,"pid":3296,"hostname":"DESKTOP-7TCP1F6","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1687855971706,"pid":3296,"hostname":"DESKTOP-7TCP1F6","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1687855971715,"pid":3296,"hostname":"DESKTOP-7TCP1F6","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1687855971725,"pid":3296,"hostname":"DESKTOP-7TCP1F6","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1687855971734,"pid":3296,"hostname":"DESKTOP-7TCP1F6","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1687855971752,"pid":3296,"hostname":"DESKTOP-7TCP1F6","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1687855971769,"pid":3296,"hostname":"DESKTOP-7TCP1F6","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1687855971787,"pid":3296,"hostname":"DESKTOP-7TCP1F6","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1687855971808,"pid":3296,"hostname":"DESKTOP-7TCP1F6","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1687855971819,"pid":3296,"hostname":"DESKTOP-7TCP1F6","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1687855971836,"pid":3296,"hostname":"DESKTOP-7TCP1F6","msg":"Skipping command welcome. Disabled!"}
+{"level":20,"time":1687855971836,"pid":3296,"hostname":"DESKTOP-7TCP1F6","msg":"Skipping slash command welcome. Disabled!"}
+{"level":20,"time":1687855971946,"pid":3296,"hostname":"DESKTOP-7TCP1F6","msg":"Skipping slash command rolebuttons. Disabled!"}
+{"level":30,"time":1687855972111,"pid":3296,"hostname":"DESKTOP-7TCP1F6","msg":"Loaded 40 commands"}
+{"level":30,"time":1687855972111,"pid":3296,"hostname":"DESKTOP-7TCP1F6","msg":"Loaded 25 slash commands"}
+{"level":30,"time":1687855972122,"pid":3296,"hostname":"DESKTOP-7TCP1F6","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1687855972122,"pid":3296,"hostname":"DESKTOP-7TCP1F6","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1687855976614,"pid":3296,"hostname":"DESKTOP-7TCP1F6","msg":"Loaded 11 events. Success (11) Failed (0)"}
+{"level":30,"time":1687855976614,"pid":3296,"hostname":"DESKTOP-7TCP1F6","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1687855977783,"pid":3296,"hostname":"DESKTOP-7TCP1F6","msg":"Mongoose: Connected"}
+{"level":30,"time":1687855979512,"pid":3296,"hostname":"DESKTOP-7TCP1F6","msg":"Logged in as Uverseni#2940!"}
+{"level":30,"time":1687855980053,"pid":3296,"hostname":"DESKTOP-7TCP1F6","msg":"Successfully registered interactions"}

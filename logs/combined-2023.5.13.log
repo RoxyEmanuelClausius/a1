@@ -1,0 +1,806 @@
+{"level":20,"time":1686605624500,"pid":11120,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command leaderboard. Disabled!"}
+{"level":20,"time":1686605624502,"pid":11120,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1686605625664,"pid":11120,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1686605625665,"pid":11120,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command emoji. Disabled!"}
+{"level":20,"time":1686605625666,"pid":11120,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1686605625667,"pid":11120,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1686605625668,"pid":11120,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1686605625675,"pid":11120,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1686605625676,"pid":11120,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1686605625678,"pid":11120,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1686605625678,"pid":11120,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1686605625679,"pid":11120,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1686605625679,"pid":11120,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1686605625680,"pid":11120,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1686605625680,"pid":11120,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1686605625681,"pid":11120,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1686605625682,"pid":11120,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1686605625682,"pid":11120,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1686605625683,"pid":11120,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1686605625685,"pid":11120,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1686605625686,"pid":11120,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1686605625764,"pid":11120,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command rolebuttons. Disabled!"}
+{"level":30,"time":1686605625764,"pid":11120,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 39 commands"}
+{"level":30,"time":1686605625765,"pid":11120,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 25 slash commands"}
+{"level":30,"time":1686605625766,"pid":11120,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1686605625766,"pid":11120,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 0 MESSAGE contexts"}
+{"level":50,"time":1686605626341,"pid":11120,"hostname":"DESKTOP-6JETUDM","err":{"type":"Error","message":"Cannot find module 'ultrax'\nRequire stack:\n- E:\\Uverseni\\admin\\src\\events\\member\\guildMemberAdd.js\n- E:\\Uverseni\\admin\\src\\structures\\BotClient.js\n- E:\\Uverseni\\admin\\src\\structures\\index.js\n- E:\\Uverseni\\admin\\bot.js","stack":"Error: Cannot find module 'ultrax'\nRequire stack:\n- E:\\Uverseni\\admin\\src\\events\\member\\guildMemberAdd.js\n- E:\\Uverseni\\admin\\src\\structures\\BotClient.js\n- E:\\Uverseni\\admin\\src\\structures\\index.js\n- E:\\Uverseni\\admin\\bot.js\n    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1026:15)\n    at Function.Module._resolveFilename (E:\\Uverseni\\admin\\node_modules\\module-alias\\index.js:49:29)\n    at Function.Module._load (node:internal/modules/cjs/loader:871:27)\n    at Module.require (node:internal/modules/cjs/loader:1098:19)\n    at require (node:internal/modules/cjs/helpers:108:18)\n    at Object.<anonymous> (E:\\Uverseni\\admin\\src\\events\\member\\guildMemberAdd.js:11:26)\n    at Module._compile (node:internal/modules/cjs/loader:1196:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1250:10)\n    at Module.load (node:internal/modules/cjs/loader:1074:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:909:12)","code":"MODULE_NOT_FOUND","requireStack":["E:\\Uverseni\\admin\\src\\events\\member\\guildMemberAdd.js","E:\\Uverseni\\admin\\src\\structures\\BotClient.js","E:\\Uverseni\\admin\\src\\structures\\index.js","E:\\Uverseni\\admin\\bot.js"]},"msg":"loadEvent - guildMemberAdd.js: Cannot find module 'ultrax'\nRequire stack:\n- E:\\Uverseni\\admin\\src\\events\\member\\guildMemberAdd.js\n- E:\\Uverseni\\admin\\src\\structures\\BotClient.js\n- E:\\Uverseni\\admin\\src\\structures\\index.js\n- E:\\Uverseni\\admin\\bot.js"}
+{"level":30,"time":1686605626399,"pid":11120,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 9 events. Success (8) Failed (1)"}
+{"level":30,"time":1686605626399,"pid":11120,"hostname":"DESKTOP-6JETUDM","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1686605627573,"pid":11120,"hostname":"DESKTOP-6JETUDM","msg":"Mongoose: Connected"}
+{"level":30,"time":1686605629720,"pid":11120,"hostname":"DESKTOP-6JETUDM","msg":"Logged in as Uverseni Admin#3091!"}
+{"level":30,"time":1686605630152,"pid":11120,"hostname":"DESKTOP-6JETUDM","msg":"Successfully registered interactions"}
+{"level":20,"time":1686605694500,"pid":11128,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command leaderboard. Disabled!"}
+{"level":20,"time":1686605694502,"pid":11128,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1686605694537,"pid":11128,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1686605694538,"pid":11128,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command emoji. Disabled!"}
+{"level":20,"time":1686605694539,"pid":11128,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1686605694540,"pid":11128,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1686605694541,"pid":11128,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1686605694548,"pid":11128,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1686605694549,"pid":11128,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1686605694550,"pid":11128,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1686605694551,"pid":11128,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1686605694551,"pid":11128,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1686605694552,"pid":11128,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1686605694552,"pid":11128,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1686605694553,"pid":11128,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1686605694553,"pid":11128,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1686605694554,"pid":11128,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1686605694555,"pid":11128,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1686605694555,"pid":11128,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1686605694557,"pid":11128,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1686605694558,"pid":11128,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1686605694563,"pid":11128,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command rolebuttons. Disabled!"}
+{"level":30,"time":1686605694563,"pid":11128,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 39 commands"}
+{"level":30,"time":1686605694564,"pid":11128,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 25 slash commands"}
+{"level":30,"time":1686605694565,"pid":11128,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1686605694565,"pid":11128,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1686605694617,"pid":11128,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 9 events. Success (9) Failed (0)"}
+{"level":30,"time":1686605694618,"pid":11128,"hostname":"DESKTOP-6JETUDM","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1686605695731,"pid":11128,"hostname":"DESKTOP-6JETUDM","msg":"Mongoose: Connected"}
+{"level":30,"time":1686605697731,"pid":11128,"hostname":"DESKTOP-6JETUDM","msg":"Logged in as Uverseni Admin#3091!"}
+{"level":30,"time":1686605698159,"pid":11128,"hostname":"DESKTOP-6JETUDM","msg":"Successfully registered interactions"}
+{"level":20,"time":1686606066520,"pid":7976,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command leaderboard. Disabled!"}
+{"level":20,"time":1686606066522,"pid":7976,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1686606066561,"pid":7976,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1686606066562,"pid":7976,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command emoji. Disabled!"}
+{"level":20,"time":1686606066563,"pid":7976,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1686606066565,"pid":7976,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1686606066566,"pid":7976,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1686606066574,"pid":7976,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1686606066575,"pid":7976,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1686606066576,"pid":7976,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1686606066576,"pid":7976,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1686606066577,"pid":7976,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1686606066577,"pid":7976,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1686606066578,"pid":7976,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1686606066578,"pid":7976,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1686606066579,"pid":7976,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1686606066580,"pid":7976,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1686606066581,"pid":7976,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1686606066581,"pid":7976,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1686606066583,"pid":7976,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1686606066584,"pid":7976,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1686606066589,"pid":7976,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command rolebuttons. Disabled!"}
+{"level":50,"time":1686606066590,"pid":7976,"hostname":"DESKTOP-6JETUDM","msg":"Failed to load E:\\Uverseni\\admin\\src\\commands\\tickets\\add.js Reason: Cannot find module '../../database/models/tickets'\nRequire stack:\n- E:\\Uverseni\\admin\\src\\commands\\tickets\\add.js\n- E:\\Uverseni\\admin\\src\\structures\\BotClient.js\n- E:\\Uverseni\\admin\\src\\structures\\index.js\n- E:\\Uverseni\\admin\\bot.js"}
+{"level":50,"time":1686606066591,"pid":7976,"hostname":"DESKTOP-6JETUDM","msg":"Failed to load E:\\Uverseni\\admin\\src\\commands\\tickets\\claim.js Reason: Cannot find module '../../database/models/tickets'\nRequire stack:\n- E:\\Uverseni\\admin\\src\\commands\\tickets\\claim.js\n- E:\\Uverseni\\admin\\src\\structures\\BotClient.js\n- E:\\Uverseni\\admin\\src\\structures\\index.js\n- E:\\Uverseni\\admin\\bot.js"}
+{"level":50,"time":1686606066592,"pid":7976,"hostname":"DESKTOP-6JETUDM","msg":"Failed to load E:\\Uverseni\\admin\\src\\commands\\tickets\\close.js Reason: Cannot find module '../../database/models/tickets'\nRequire stack:\n- E:\\Uverseni\\admin\\src\\commands\\tickets\\close.js\n- E:\\Uverseni\\admin\\src\\structures\\BotClient.js\n- E:\\Uverseni\\admin\\src\\structures\\index.js\n- E:\\Uverseni\\admin\\bot.js"}
+{"level":50,"time":1686606066593,"pid":7976,"hostname":"DESKTOP-6JETUDM","msg":"Failed to load E:\\Uverseni\\admin\\src\\commands\\tickets\\create.js Reason: Cannot find module '../../database/models/tickets'\nRequire stack:\n- E:\\Uverseni\\admin\\src\\commands\\tickets\\create.js\n- E:\\Uverseni\\admin\\src\\structures\\BotClient.js\n- E:\\Uverseni\\admin\\src\\structures\\index.js\n- E:\\Uverseni\\admin\\bot.js"}
+{"level":50,"time":1686606066594,"pid":7976,"hostname":"DESKTOP-6JETUDM","msg":"Failed to load E:\\Uverseni\\admin\\src\\commands\\tickets\\delete.js Reason: Cannot find module '../../database/models/tickets'\nRequire stack:\n- E:\\Uverseni\\admin\\src\\commands\\tickets\\delete.js\n- E:\\Uverseni\\admin\\src\\structures\\BotClient.js\n- E:\\Uverseni\\admin\\src\\structures\\index.js\n- E:\\Uverseni\\admin\\bot.js"}
+{"level":50,"time":1686606066595,"pid":7976,"hostname":"DESKTOP-6JETUDM","msg":"Failed to load E:\\Uverseni\\admin\\src\\commands\\tickets\\information.js Reason: Cannot find module '../../database/models/tickets'\nRequire stack:\n- E:\\Uverseni\\admin\\src\\commands\\tickets\\information.js\n- E:\\Uverseni\\admin\\src\\structures\\BotClient.js\n- E:\\Uverseni\\admin\\src\\structures\\index.js\n- E:\\Uverseni\\admin\\bot.js"}
+{"level":50,"time":1686606066595,"pid":7976,"hostname":"DESKTOP-6JETUDM","msg":"Failed to load E:\\Uverseni\\admin\\src\\commands\\tickets\\lower.js Reason: Cannot find module '../../database/models/tickets'\nRequire stack:\n- E:\\Uverseni\\admin\\src\\commands\\tickets\\lower.js\n- E:\\Uverseni\\admin\\src\\structures\\BotClient.js\n- E:\\Uverseni\\admin\\src\\structures\\index.js\n- E:\\Uverseni\\admin\\bot.js"}
+{"level":50,"time":1686606066596,"pid":7976,"hostname":"DESKTOP-6JETUDM","msg":"Failed to load E:\\Uverseni\\admin\\src\\commands\\tickets\\notice.js Reason: Cannot find module '../../database/models/tickets'\nRequire stack:\n- E:\\Uverseni\\admin\\src\\commands\\tickets\\notice.js\n- E:\\Uverseni\\admin\\src\\structures\\BotClient.js\n- E:\\Uverseni\\admin\\src\\structures\\index.js\n- E:\\Uverseni\\admin\\bot.js"}
+{"level":50,"time":1686606066596,"pid":7976,"hostname":"DESKTOP-6JETUDM","msg":"Failed to load E:\\Uverseni\\admin\\src\\commands\\tickets\\open.js Reason: Cannot find module '../../database/models/tickets'\nRequire stack:\n- E:\\Uverseni\\admin\\src\\commands\\tickets\\open.js\n- E:\\Uverseni\\admin\\src\\structures\\BotClient.js\n- E:\\Uverseni\\admin\\src\\structures\\index.js\n- E:\\Uverseni\\admin\\bot.js"}
+{"level":50,"time":1686606066597,"pid":7976,"hostname":"DESKTOP-6JETUDM","msg":"Failed to load E:\\Uverseni\\admin\\src\\commands\\tickets\\raise.js Reason: Cannot find module '../../database/models/tickets'\nRequire stack:\n- E:\\Uverseni\\admin\\src\\commands\\tickets\\raise.js\n- E:\\Uverseni\\admin\\src\\structures\\BotClient.js\n- E:\\Uverseni\\admin\\src\\structures\\index.js\n- E:\\Uverseni\\admin\\bot.js"}
+{"level":50,"time":1686606066597,"pid":7976,"hostname":"DESKTOP-6JETUDM","msg":"Failed to load E:\\Uverseni\\admin\\src\\commands\\tickets\\remove.js Reason: Cannot find module '../../database/models/tickets'\nRequire stack:\n- E:\\Uverseni\\admin\\src\\commands\\tickets\\remove.js\n- E:\\Uverseni\\admin\\src\\structures\\BotClient.js\n- E:\\Uverseni\\admin\\src\\structures\\index.js\n- E:\\Uverseni\\admin\\bot.js"}
+{"level":50,"time":1686606066598,"pid":7976,"hostname":"DESKTOP-6JETUDM","msg":"Failed to load E:\\Uverseni\\admin\\src\\commands\\tickets\\rename.js Reason: Cannot find module '../../database/models/tickets'\nRequire stack:\n- E:\\Uverseni\\admin\\src\\commands\\tickets\\rename.js\n- E:\\Uverseni\\admin\\src\\structures\\BotClient.js\n- E:\\Uverseni\\admin\\src\\structures\\index.js\n- E:\\Uverseni\\admin\\bot.js"}
+{"level":50,"time":1686606066599,"pid":7976,"hostname":"DESKTOP-6JETUDM","msg":"Failed to load E:\\Uverseni\\admin\\src\\commands\\tickets\\transcript.js Reason: Cannot find module '../../database/models/tickets'\nRequire stack:\n- E:\\Uverseni\\admin\\src\\commands\\tickets\\transcript.js\n- E:\\Uverseni\\admin\\src\\structures\\BotClient.js\n- E:\\Uverseni\\admin\\src\\structures\\index.js\n- E:\\Uverseni\\admin\\bot.js"}
+{"level":50,"time":1686606066599,"pid":7976,"hostname":"DESKTOP-6JETUDM","msg":"Failed to load E:\\Uverseni\\admin\\src\\commands\\tickets\\unclaim.js Reason: Cannot find module '../../database/models/tickets'\nRequire stack:\n- E:\\Uverseni\\admin\\src\\commands\\tickets\\unclaim.js\n- E:\\Uverseni\\admin\\src\\structures\\BotClient.js\n- E:\\Uverseni\\admin\\src\\structures\\index.js\n- E:\\Uverseni\\admin\\bot.js"}
+{"level":30,"time":1686606066599,"pid":7976,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 39 commands"}
+{"level":30,"time":1686606066600,"pid":7976,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 25 slash commands"}
+{"level":30,"time":1686606066601,"pid":7976,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1686606066601,"pid":7976,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1686606066654,"pid":7976,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 9 events. Success (9) Failed (0)"}
+{"level":30,"time":1686606066654,"pid":7976,"hostname":"DESKTOP-6JETUDM","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1686606067576,"pid":7976,"hostname":"DESKTOP-6JETUDM","msg":"Mongoose: Connected"}
+{"level":30,"time":1686606069654,"pid":7976,"hostname":"DESKTOP-6JETUDM","msg":"Logged in as Uverseni Admin#3091!"}
+{"level":30,"time":1686606070029,"pid":7976,"hostname":"DESKTOP-6JETUDM","msg":"Successfully registered interactions"}
+{"level":20,"time":1686606102148,"pid":3752,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command leaderboard. Disabled!"}
+{"level":20,"time":1686606102150,"pid":3752,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1686606102186,"pid":3752,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1686606102187,"pid":3752,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command emoji. Disabled!"}
+{"level":20,"time":1686606102188,"pid":3752,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1686606102189,"pid":3752,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1686606102190,"pid":3752,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1686606102197,"pid":3752,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1686606102198,"pid":3752,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1686606102199,"pid":3752,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1686606102200,"pid":3752,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1686606102200,"pid":3752,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1686606102200,"pid":3752,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1686606102201,"pid":3752,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1686606102202,"pid":3752,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1686606102202,"pid":3752,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1686606102203,"pid":3752,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1686606102203,"pid":3752,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1686606102204,"pid":3752,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1686606102206,"pid":3752,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1686606102207,"pid":3752,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1686606102212,"pid":3752,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command rolebuttons. Disabled!"}
+{"level":50,"time":1686606102213,"pid":3752,"hostname":"DESKTOP-6JETUDM","msg":"Failed to load E:\\Uverseni\\admin\\src\\commands\\tickets\\add.js Reason: Cannot find module '../../database/models/tickets'\nRequire stack:\n- E:\\Uverseni\\admin\\src\\commands\\tickets\\add.js\n- E:\\Uverseni\\admin\\src\\structures\\BotClient.js\n- E:\\Uverseni\\admin\\src\\structures\\index.js\n- E:\\Uverseni\\admin\\bot.js"}
+{"level":50,"time":1686606102214,"pid":3752,"hostname":"DESKTOP-6JETUDM","msg":"Failed to load E:\\Uverseni\\admin\\src\\commands\\tickets\\claim.js Reason: Cannot find module '../../database/models/tickets'\nRequire stack:\n- E:\\Uverseni\\admin\\src\\commands\\tickets\\claim.js\n- E:\\Uverseni\\admin\\src\\structures\\BotClient.js\n- E:\\Uverseni\\admin\\src\\structures\\index.js\n- E:\\Uverseni\\admin\\bot.js"}
+{"level":50,"time":1686606102215,"pid":3752,"hostname":"DESKTOP-6JETUDM","msg":"Failed to load E:\\Uverseni\\admin\\src\\commands\\tickets\\close.js Reason: Cannot find module '../../database/models/tickets'\nRequire stack:\n- E:\\Uverseni\\admin\\src\\commands\\tickets\\close.js\n- E:\\Uverseni\\admin\\src\\structures\\BotClient.js\n- E:\\Uverseni\\admin\\src\\structures\\index.js\n- E:\\Uverseni\\admin\\bot.js"}
+{"level":50,"time":1686606102216,"pid":3752,"hostname":"DESKTOP-6JETUDM","msg":"Failed to load E:\\Uverseni\\admin\\src\\commands\\tickets\\create.js Reason: Cannot find module '../../database/models/tickets'\nRequire stack:\n- E:\\Uverseni\\admin\\src\\commands\\tickets\\create.js\n- E:\\Uverseni\\admin\\src\\structures\\BotClient.js\n- E:\\Uverseni\\admin\\src\\structures\\index.js\n- E:\\Uverseni\\admin\\bot.js"}
+{"level":50,"time":1686606102217,"pid":3752,"hostname":"DESKTOP-6JETUDM","msg":"Failed to load E:\\Uverseni\\admin\\src\\commands\\tickets\\delete.js Reason: Cannot find module '../../database/models/tickets'\nRequire stack:\n- E:\\Uverseni\\admin\\src\\commands\\tickets\\delete.js\n- E:\\Uverseni\\admin\\src\\structures\\BotClient.js\n- E:\\Uverseni\\admin\\src\\structures\\index.js\n- E:\\Uverseni\\admin\\bot.js"}
+{"level":50,"time":1686606102217,"pid":3752,"hostname":"DESKTOP-6JETUDM","msg":"Failed to load E:\\Uverseni\\admin\\src\\commands\\tickets\\information.js Reason: Cannot find module '../../database/models/tickets'\nRequire stack:\n- E:\\Uverseni\\admin\\src\\commands\\tickets\\information.js\n- E:\\Uverseni\\admin\\src\\structures\\BotClient.js\n- E:\\Uverseni\\admin\\src\\structures\\index.js\n- E:\\Uverseni\\admin\\bot.js"}
+{"level":50,"time":1686606102218,"pid":3752,"hostname":"DESKTOP-6JETUDM","msg":"Failed to load E:\\Uverseni\\admin\\src\\commands\\tickets\\lower.js Reason: Cannot find module '../../database/models/tickets'\nRequire stack:\n- E:\\Uverseni\\admin\\src\\commands\\tickets\\lower.js\n- E:\\Uverseni\\admin\\src\\structures\\BotClient.js\n- E:\\Uverseni\\admin\\src\\structures\\index.js\n- E:\\Uverseni\\admin\\bot.js"}
+{"level":50,"time":1686606102219,"pid":3752,"hostname":"DESKTOP-6JETUDM","msg":"Failed to load E:\\Uverseni\\admin\\src\\commands\\tickets\\notice.js Reason: Cannot find module '../../database/models/tickets'\nRequire stack:\n- E:\\Uverseni\\admin\\src\\commands\\tickets\\notice.js\n- E:\\Uverseni\\admin\\src\\structures\\BotClient.js\n- E:\\Uverseni\\admin\\src\\structures\\index.js\n- E:\\Uverseni\\admin\\bot.js"}
+{"level":50,"time":1686606102220,"pid":3752,"hostname":"DESKTOP-6JETUDM","msg":"Failed to load E:\\Uverseni\\admin\\src\\commands\\tickets\\open.js Reason: Cannot find module '../../database/models/tickets'\nRequire stack:\n- E:\\Uverseni\\admin\\src\\commands\\tickets\\open.js\n- E:\\Uverseni\\admin\\src\\structures\\BotClient.js\n- E:\\Uverseni\\admin\\src\\structures\\index.js\n- E:\\Uverseni\\admin\\bot.js"}
+{"level":50,"time":1686606102220,"pid":3752,"hostname":"DESKTOP-6JETUDM","msg":"Failed to load E:\\Uverseni\\admin\\src\\commands\\tickets\\raise.js Reason: Cannot find module '../../database/models/tickets'\nRequire stack:\n- E:\\Uverseni\\admin\\src\\commands\\tickets\\raise.js\n- E:\\Uverseni\\admin\\src\\structures\\BotClient.js\n- E:\\Uverseni\\admin\\src\\structures\\index.js\n- E:\\Uverseni\\admin\\bot.js"}
+{"level":50,"time":1686606102221,"pid":3752,"hostname":"DESKTOP-6JETUDM","msg":"Failed to load E:\\Uverseni\\admin\\src\\commands\\tickets\\remove.js Reason: Cannot find module '../../database/models/tickets'\nRequire stack:\n- E:\\Uverseni\\admin\\src\\commands\\tickets\\remove.js\n- E:\\Uverseni\\admin\\src\\structures\\BotClient.js\n- E:\\Uverseni\\admin\\src\\structures\\index.js\n- E:\\Uverseni\\admin\\bot.js"}
+{"level":50,"time":1686606102221,"pid":3752,"hostname":"DESKTOP-6JETUDM","msg":"Failed to load E:\\Uverseni\\admin\\src\\commands\\tickets\\rename.js Reason: Cannot find module '../../database/models/tickets'\nRequire stack:\n- E:\\Uverseni\\admin\\src\\commands\\tickets\\rename.js\n- E:\\Uverseni\\admin\\src\\structures\\BotClient.js\n- E:\\Uverseni\\admin\\src\\structures\\index.js\n- E:\\Uverseni\\admin\\bot.js"}
+{"level":50,"time":1686606102222,"pid":3752,"hostname":"DESKTOP-6JETUDM","msg":"Failed to load E:\\Uverseni\\admin\\src\\commands\\tickets\\transcript.js Reason: Cannot find module '../../database/models/tickets'\nRequire stack:\n- E:\\Uverseni\\admin\\src\\commands\\tickets\\transcript.js\n- E:\\Uverseni\\admin\\src\\structures\\BotClient.js\n- E:\\Uverseni\\admin\\src\\structures\\index.js\n- E:\\Uverseni\\admin\\bot.js"}
+{"level":50,"time":1686606102223,"pid":3752,"hostname":"DESKTOP-6JETUDM","msg":"Failed to load E:\\Uverseni\\admin\\src\\commands\\tickets\\unclaim.js Reason: Cannot find module '../../database/models/tickets'\nRequire stack:\n- E:\\Uverseni\\admin\\src\\commands\\tickets\\unclaim.js\n- E:\\Uverseni\\admin\\src\\structures\\BotClient.js\n- E:\\Uverseni\\admin\\src\\structures\\index.js\n- E:\\Uverseni\\admin\\bot.js"}
+{"level":30,"time":1686606102223,"pid":3752,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 39 commands"}
+{"level":30,"time":1686606102223,"pid":3752,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 25 slash commands"}
+{"level":30,"time":1686606102224,"pid":3752,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1686606102224,"pid":3752,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1686606102277,"pid":3752,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 9 events. Success (9) Failed (0)"}
+{"level":30,"time":1686606102277,"pid":3752,"hostname":"DESKTOP-6JETUDM","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1686606102984,"pid":3752,"hostname":"DESKTOP-6JETUDM","msg":"Mongoose: Connected"}
+{"level":30,"time":1686606106205,"pid":3752,"hostname":"DESKTOP-6JETUDM","msg":"Logged in as Uverseni Admin#3091!"}
+{"level":30,"time":1686606106590,"pid":3752,"hostname":"DESKTOP-6JETUDM","msg":"Successfully registered interactions"}
+{"level":20,"time":1686606173219,"pid":12264,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command leaderboard. Disabled!"}
+{"level":20,"time":1686606173221,"pid":12264,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1686606173255,"pid":12264,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1686606173256,"pid":12264,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command emoji. Disabled!"}
+{"level":20,"time":1686606173257,"pid":12264,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1686606173258,"pid":12264,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1686606173259,"pid":12264,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1686606173266,"pid":12264,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1686606173267,"pid":12264,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1686606173268,"pid":12264,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1686606173269,"pid":12264,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1686606173269,"pid":12264,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1686606173269,"pid":12264,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1686606173270,"pid":12264,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1686606173270,"pid":12264,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1686606173271,"pid":12264,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1686606173272,"pid":12264,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1686606173273,"pid":12264,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1686606173273,"pid":12264,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1686606173275,"pid":12264,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1686606173276,"pid":12264,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1686606173281,"pid":12264,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command rolebuttons. Disabled!"}
+{"level":50,"time":1686606173282,"pid":12264,"hostname":"DESKTOP-6JETUDM","msg":"Failed to load E:\\Uverseni\\admin\\src\\commands\\tickets\\add.js Reason: Cannot find module '../../database/models/tickets'\nRequire stack:\n- E:\\Uverseni\\admin\\src\\commands\\tickets\\add.js\n- E:\\Uverseni\\admin\\src\\structures\\BotClient.js\n- E:\\Uverseni\\admin\\src\\structures\\index.js\n- E:\\Uverseni\\admin\\bot.js"}
+{"level":50,"time":1686606173283,"pid":12264,"hostname":"DESKTOP-6JETUDM","msg":"Failed to load E:\\Uverseni\\admin\\src\\commands\\tickets\\claim.js Reason: Cannot find module '../../database/models/tickets'\nRequire stack:\n- E:\\Uverseni\\admin\\src\\commands\\tickets\\claim.js\n- E:\\Uverseni\\admin\\src\\structures\\BotClient.js\n- E:\\Uverseni\\admin\\src\\structures\\index.js\n- E:\\Uverseni\\admin\\bot.js"}
+{"level":50,"time":1686606173283,"pid":12264,"hostname":"DESKTOP-6JETUDM","msg":"Failed to load E:\\Uverseni\\admin\\src\\commands\\tickets\\close.js Reason: Cannot find module '../../database/models/tickets'\nRequire stack:\n- E:\\Uverseni\\admin\\src\\commands\\tickets\\close.js\n- E:\\Uverseni\\admin\\src\\structures\\BotClient.js\n- E:\\Uverseni\\admin\\src\\structures\\index.js\n- E:\\Uverseni\\admin\\bot.js"}
+{"level":50,"time":1686606173284,"pid":12264,"hostname":"DESKTOP-6JETUDM","msg":"Failed to load E:\\Uverseni\\admin\\src\\commands\\tickets\\create.js Reason: Cannot find module '../../database/models/tickets'\nRequire stack:\n- E:\\Uverseni\\admin\\src\\commands\\tickets\\create.js\n- E:\\Uverseni\\admin\\src\\structures\\BotClient.js\n- E:\\Uverseni\\admin\\src\\structures\\index.js\n- E:\\Uverseni\\admin\\bot.js"}
+{"level":50,"time":1686606173285,"pid":12264,"hostname":"DESKTOP-6JETUDM","msg":"Failed to load E:\\Uverseni\\admin\\src\\commands\\tickets\\delete.js Reason: Cannot find module '../../database/models/tickets'\nRequire stack:\n- E:\\Uverseni\\admin\\src\\commands\\tickets\\delete.js\n- E:\\Uverseni\\admin\\src\\structures\\BotClient.js\n- E:\\Uverseni\\admin\\src\\structures\\index.js\n- E:\\Uverseni\\admin\\bot.js"}
+{"level":50,"time":1686606173285,"pid":12264,"hostname":"DESKTOP-6JETUDM","msg":"Failed to load E:\\Uverseni\\admin\\src\\commands\\tickets\\information.js Reason: Cannot find module '../../database/models/tickets'\nRequire stack:\n- E:\\Uverseni\\admin\\src\\commands\\tickets\\information.js\n- E:\\Uverseni\\admin\\src\\structures\\BotClient.js\n- E:\\Uverseni\\admin\\src\\structures\\index.js\n- E:\\Uverseni\\admin\\bot.js"}
+{"level":50,"time":1686606173286,"pid":12264,"hostname":"DESKTOP-6JETUDM","msg":"Failed to load E:\\Uverseni\\admin\\src\\commands\\tickets\\lower.js Reason: Cannot find module '../../database/models/tickets'\nRequire stack:\n- E:\\Uverseni\\admin\\src\\commands\\tickets\\lower.js\n- E:\\Uverseni\\admin\\src\\structures\\BotClient.js\n- E:\\Uverseni\\admin\\src\\structures\\index.js\n- E:\\Uverseni\\admin\\bot.js"}
+{"level":50,"time":1686606173286,"pid":12264,"hostname":"DESKTOP-6JETUDM","msg":"Failed to load E:\\Uverseni\\admin\\src\\commands\\tickets\\notice.js Reason: Cannot find module '../../database/models/tickets'\nRequire stack:\n- E:\\Uverseni\\admin\\src\\commands\\tickets\\notice.js\n- E:\\Uverseni\\admin\\src\\structures\\BotClient.js\n- E:\\Uverseni\\admin\\src\\structures\\index.js\n- E:\\Uverseni\\admin\\bot.js"}
+{"level":50,"time":1686606173287,"pid":12264,"hostname":"DESKTOP-6JETUDM","msg":"Failed to load E:\\Uverseni\\admin\\src\\commands\\tickets\\open.js Reason: Cannot find module '../../database/models/tickets'\nRequire stack:\n- E:\\Uverseni\\admin\\src\\commands\\tickets\\open.js\n- E:\\Uverseni\\admin\\src\\structures\\BotClient.js\n- E:\\Uverseni\\admin\\src\\structures\\index.js\n- E:\\Uverseni\\admin\\bot.js"}
+{"level":50,"time":1686606173288,"pid":12264,"hostname":"DESKTOP-6JETUDM","msg":"Failed to load E:\\Uverseni\\admin\\src\\commands\\tickets\\raise.js Reason: Cannot find module '../../database/models/tickets'\nRequire stack:\n- E:\\Uverseni\\admin\\src\\commands\\tickets\\raise.js\n- E:\\Uverseni\\admin\\src\\structures\\BotClient.js\n- E:\\Uverseni\\admin\\src\\structures\\index.js\n- E:\\Uverseni\\admin\\bot.js"}
+{"level":50,"time":1686606173288,"pid":12264,"hostname":"DESKTOP-6JETUDM","msg":"Failed to load E:\\Uverseni\\admin\\src\\commands\\tickets\\remove.js Reason: Cannot find module '../../database/models/tickets'\nRequire stack:\n- E:\\Uverseni\\admin\\src\\commands\\tickets\\remove.js\n- E:\\Uverseni\\admin\\src\\structures\\BotClient.js\n- E:\\Uverseni\\admin\\src\\structures\\index.js\n- E:\\Uverseni\\admin\\bot.js"}
+{"level":50,"time":1686606173289,"pid":12264,"hostname":"DESKTOP-6JETUDM","msg":"Failed to load E:\\Uverseni\\admin\\src\\commands\\tickets\\rename.js Reason: Cannot find module '../../database/models/tickets'\nRequire stack:\n- E:\\Uverseni\\admin\\src\\commands\\tickets\\rename.js\n- E:\\Uverseni\\admin\\src\\structures\\BotClient.js\n- E:\\Uverseni\\admin\\src\\structures\\index.js\n- E:\\Uverseni\\admin\\bot.js"}
+{"level":50,"time":1686606173289,"pid":12264,"hostname":"DESKTOP-6JETUDM","msg":"Failed to load E:\\Uverseni\\admin\\src\\commands\\tickets\\transcript.js Reason: Cannot find module '../../database/models/tickets'\nRequire stack:\n- E:\\Uverseni\\admin\\src\\commands\\tickets\\transcript.js\n- E:\\Uverseni\\admin\\src\\structures\\BotClient.js\n- E:\\Uverseni\\admin\\src\\structures\\index.js\n- E:\\Uverseni\\admin\\bot.js"}
+{"level":50,"time":1686606173290,"pid":12264,"hostname":"DESKTOP-6JETUDM","msg":"Failed to load E:\\Uverseni\\admin\\src\\commands\\tickets\\unclaim.js Reason: Cannot find module '../../database/models/tickets'\nRequire stack:\n- E:\\Uverseni\\admin\\src\\commands\\tickets\\unclaim.js\n- E:\\Uverseni\\admin\\src\\structures\\BotClient.js\n- E:\\Uverseni\\admin\\src\\structures\\index.js\n- E:\\Uverseni\\admin\\bot.js"}
+{"level":30,"time":1686606173290,"pid":12264,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 39 commands"}
+{"level":30,"time":1686606173290,"pid":12264,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 25 slash commands"}
+{"level":30,"time":1686606173291,"pid":12264,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1686606173291,"pid":12264,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 0 MESSAGE contexts"}
+{"level":50,"time":1686606173297,"pid":12264,"hostname":"DESKTOP-6JETUDM","err":{"type":"Error","message":"Cannot find module '../../database/models/tickets'\nRequire stack:\n- E:\\Uverseni\\admin\\src\\events\\interactions\\tickets.js\n- E:\\Uverseni\\admin\\src\\structures\\BotClient.js\n- E:\\Uverseni\\admin\\src\\structures\\index.js\n- E:\\Uverseni\\admin\\bot.js","stack":"Error: Cannot find module '../../database/models/tickets'\nRequire stack:\n- E:\\Uverseni\\admin\\src\\events\\interactions\\tickets.js\n- E:\\Uverseni\\admin\\src\\structures\\BotClient.js\n- E:\\Uverseni\\admin\\src\\structures\\index.js\n- E:\\Uverseni\\admin\\bot.js\n    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1026:15)\n    at Function.Module._resolveFilename (E:\\Uverseni\\admin\\node_modules\\module-alias\\index.js:49:29)\n    at Function.Module._load (node:internal/modules/cjs/loader:871:27)\n    at Module.require (node:internal/modules/cjs/loader:1098:19)\n    at require (node:internal/modules/cjs/helpers:108:18)\n    at Object.<anonymous> (E:\\Uverseni\\admin\\src\\events\\interactions\\tickets.js:5:22)\n    at Module._compile (node:internal/modules/cjs/loader:1196:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1250:10)\n    at Module.load (node:internal/modules/cjs/loader:1074:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:909:12)","code":"MODULE_NOT_FOUND","requireStack":["E:\\Uverseni\\admin\\src\\events\\interactions\\tickets.js","E:\\Uverseni\\admin\\src\\structures\\BotClient.js","E:\\Uverseni\\admin\\src\\structures\\index.js","E:\\Uverseni\\admin\\bot.js"]},"msg":"loadEvent - tickets.js: Cannot find module '../../database/models/tickets'\nRequire stack:\n- E:\\Uverseni\\admin\\src\\events\\interactions\\tickets.js\n- E:\\Uverseni\\admin\\src\\structures\\BotClient.js\n- E:\\Uverseni\\admin\\src\\structures\\index.js\n- E:\\Uverseni\\admin\\bot.js"}
+{"level":30,"time":1686606173345,"pid":12264,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 10 events. Success (9) Failed (1)"}
+{"level":30,"time":1686606173345,"pid":12264,"hostname":"DESKTOP-6JETUDM","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1686606174099,"pid":12264,"hostname":"DESKTOP-6JETUDM","msg":"Mongoose: Connected"}
+{"level":30,"time":1686606175979,"pid":12264,"hostname":"DESKTOP-6JETUDM","msg":"Logged in as Uverseni Admin#3091!"}
+{"level":30,"time":1686606176405,"pid":12264,"hostname":"DESKTOP-6JETUDM","msg":"Successfully registered interactions"}
+{"level":20,"time":1686606325616,"pid":9420,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command leaderboard. Disabled!"}
+{"level":20,"time":1686606325618,"pid":9420,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1686606325653,"pid":9420,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1686606325654,"pid":9420,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command emoji. Disabled!"}
+{"level":20,"time":1686606325654,"pid":9420,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1686606325656,"pid":9420,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1686606325657,"pid":9420,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1686606325664,"pid":9420,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1686606325665,"pid":9420,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1686606325666,"pid":9420,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1686606325667,"pid":9420,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1686606325667,"pid":9420,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1686606325667,"pid":9420,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1686606325668,"pid":9420,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1686606325668,"pid":9420,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1686606325669,"pid":9420,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1686606325670,"pid":9420,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1686606325671,"pid":9420,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1686606325671,"pid":9420,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1686606325673,"pid":9420,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1686606325674,"pid":9420,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1686606325679,"pid":9420,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command rolebuttons. Disabled!"}
+{"level":50,"time":1686606325680,"pid":9420,"hostname":"DESKTOP-6JETUDM","msg":"Failed to load E:\\Uverseni\\admin\\src\\commands\\tickets\\add.js Reason: Cannot find module '../../database/models/tickets'\nRequire stack:\n- E:\\Uverseni\\admin\\src\\commands\\tickets\\add.js\n- E:\\Uverseni\\admin\\src\\structures\\BotClient.js\n- E:\\Uverseni\\admin\\src\\structures\\index.js\n- E:\\Uverseni\\admin\\bot.js"}
+{"level":50,"time":1686606325681,"pid":9420,"hostname":"DESKTOP-6JETUDM","msg":"Failed to load E:\\Uverseni\\admin\\src\\commands\\tickets\\claim.js Reason: Cannot find module '../../database/models/tickets'\nRequire stack:\n- E:\\Uverseni\\admin\\src\\commands\\tickets\\claim.js\n- E:\\Uverseni\\admin\\src\\structures\\BotClient.js\n- E:\\Uverseni\\admin\\src\\structures\\index.js\n- E:\\Uverseni\\admin\\bot.js"}
+{"level":50,"time":1686606325682,"pid":9420,"hostname":"DESKTOP-6JETUDM","msg":"Failed to load E:\\Uverseni\\admin\\src\\commands\\tickets\\close.js Reason: Cannot find module '../../database/models/tickets'\nRequire stack:\n- E:\\Uverseni\\admin\\src\\commands\\tickets\\close.js\n- E:\\Uverseni\\admin\\src\\structures\\BotClient.js\n- E:\\Uverseni\\admin\\src\\structures\\index.js\n- E:\\Uverseni\\admin\\bot.js"}
+{"level":50,"time":1686606325683,"pid":9420,"hostname":"DESKTOP-6JETUDM","msg":"Failed to load E:\\Uverseni\\admin\\src\\commands\\tickets\\create.js Reason: Cannot find module '../../database/models/tickets'\nRequire stack:\n- E:\\Uverseni\\admin\\src\\commands\\tickets\\create.js\n- E:\\Uverseni\\admin\\src\\structures\\BotClient.js\n- E:\\Uverseni\\admin\\src\\structures\\index.js\n- E:\\Uverseni\\admin\\bot.js"}
+{"level":50,"time":1686606325683,"pid":9420,"hostname":"DESKTOP-6JETUDM","msg":"Failed to load E:\\Uverseni\\admin\\src\\commands\\tickets\\delete.js Reason: Cannot find module '../../database/models/tickets'\nRequire stack:\n- E:\\Uverseni\\admin\\src\\commands\\tickets\\delete.js\n- E:\\Uverseni\\admin\\src\\structures\\BotClient.js\n- E:\\Uverseni\\admin\\src\\structures\\index.js\n- E:\\Uverseni\\admin\\bot.js"}
+{"level":50,"time":1686606325684,"pid":9420,"hostname":"DESKTOP-6JETUDM","msg":"Failed to load E:\\Uverseni\\admin\\src\\commands\\tickets\\information.js Reason: Cannot find module '../../database/models/tickets'\nRequire stack:\n- E:\\Uverseni\\admin\\src\\commands\\tickets\\information.js\n- E:\\Uverseni\\admin\\src\\structures\\BotClient.js\n- E:\\Uverseni\\admin\\src\\structures\\index.js\n- E:\\Uverseni\\admin\\bot.js"}
+{"level":50,"time":1686606325684,"pid":9420,"hostname":"DESKTOP-6JETUDM","msg":"Failed to load E:\\Uverseni\\admin\\src\\commands\\tickets\\lower.js Reason: Cannot find module '../../database/models/tickets'\nRequire stack:\n- E:\\Uverseni\\admin\\src\\commands\\tickets\\lower.js\n- E:\\Uverseni\\admin\\src\\structures\\BotClient.js\n- E:\\Uverseni\\admin\\src\\structures\\index.js\n- E:\\Uverseni\\admin\\bot.js"}
+{"level":50,"time":1686606325685,"pid":9420,"hostname":"DESKTOP-6JETUDM","msg":"Failed to load E:\\Uverseni\\admin\\src\\commands\\tickets\\notice.js Reason: Cannot find module '../../database/models/tickets'\nRequire stack:\n- E:\\Uverseni\\admin\\src\\commands\\tickets\\notice.js\n- E:\\Uverseni\\admin\\src\\structures\\BotClient.js\n- E:\\Uverseni\\admin\\src\\structures\\index.js\n- E:\\Uverseni\\admin\\bot.js"}
+{"level":50,"time":1686606325686,"pid":9420,"hostname":"DESKTOP-6JETUDM","msg":"Failed to load E:\\Uverseni\\admin\\src\\commands\\tickets\\open.js Reason: Cannot find module '../../database/models/tickets'\nRequire stack:\n- E:\\Uverseni\\admin\\src\\commands\\tickets\\open.js\n- E:\\Uverseni\\admin\\src\\structures\\BotClient.js\n- E:\\Uverseni\\admin\\src\\structures\\index.js\n- E:\\Uverseni\\admin\\bot.js"}
+{"level":50,"time":1686606325686,"pid":9420,"hostname":"DESKTOP-6JETUDM","msg":"Failed to load E:\\Uverseni\\admin\\src\\commands\\tickets\\raise.js Reason: Cannot find module '../../database/models/tickets'\nRequire stack:\n- E:\\Uverseni\\admin\\src\\commands\\tickets\\raise.js\n- E:\\Uverseni\\admin\\src\\structures\\BotClient.js\n- E:\\Uverseni\\admin\\src\\structures\\index.js\n- E:\\Uverseni\\admin\\bot.js"}
+{"level":50,"time":1686606325687,"pid":9420,"hostname":"DESKTOP-6JETUDM","msg":"Failed to load E:\\Uverseni\\admin\\src\\commands\\tickets\\remove.js Reason: Cannot find module '../../database/models/tickets'\nRequire stack:\n- E:\\Uverseni\\admin\\src\\commands\\tickets\\remove.js\n- E:\\Uverseni\\admin\\src\\structures\\BotClient.js\n- E:\\Uverseni\\admin\\src\\structures\\index.js\n- E:\\Uverseni\\admin\\bot.js"}
+{"level":50,"time":1686606325687,"pid":9420,"hostname":"DESKTOP-6JETUDM","msg":"Failed to load E:\\Uverseni\\admin\\src\\commands\\tickets\\rename.js Reason: Cannot find module '../../database/models/tickets'\nRequire stack:\n- E:\\Uverseni\\admin\\src\\commands\\tickets\\rename.js\n- E:\\Uverseni\\admin\\src\\structures\\BotClient.js\n- E:\\Uverseni\\admin\\src\\structures\\index.js\n- E:\\Uverseni\\admin\\bot.js"}
+{"level":50,"time":1686606325688,"pid":9420,"hostname":"DESKTOP-6JETUDM","msg":"Failed to load E:\\Uverseni\\admin\\src\\commands\\tickets\\transcript.js Reason: Cannot find module '../../database/models/tickets'\nRequire stack:\n- E:\\Uverseni\\admin\\src\\commands\\tickets\\transcript.js\n- E:\\Uverseni\\admin\\src\\structures\\BotClient.js\n- E:\\Uverseni\\admin\\src\\structures\\index.js\n- E:\\Uverseni\\admin\\bot.js"}
+{"level":50,"time":1686606325688,"pid":9420,"hostname":"DESKTOP-6JETUDM","msg":"Failed to load E:\\Uverseni\\admin\\src\\commands\\tickets\\unclaim.js Reason: Cannot find module '../../database/models/tickets'\nRequire stack:\n- E:\\Uverseni\\admin\\src\\commands\\tickets\\unclaim.js\n- E:\\Uverseni\\admin\\src\\structures\\BotClient.js\n- E:\\Uverseni\\admin\\src\\structures\\index.js\n- E:\\Uverseni\\admin\\bot.js"}
+{"level":30,"time":1686606325689,"pid":9420,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 39 commands"}
+{"level":30,"time":1686606325689,"pid":9420,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 25 slash commands"}
+{"level":30,"time":1686606325690,"pid":9420,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1686606325690,"pid":9420,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 0 MESSAGE contexts"}
+{"level":50,"time":1686606325697,"pid":9420,"hostname":"DESKTOP-6JETUDM","err":{"type":"Error","message":"Cannot find module '../../database/models/tickets'\nRequire stack:\n- E:\\Uverseni\\admin\\src\\events\\interactions\\tickets.js\n- E:\\Uverseni\\admin\\src\\structures\\BotClient.js\n- E:\\Uverseni\\admin\\src\\structures\\index.js\n- E:\\Uverseni\\admin\\bot.js","stack":"Error: Cannot find module '../../database/models/tickets'\nRequire stack:\n- E:\\Uverseni\\admin\\src\\events\\interactions\\tickets.js\n- E:\\Uverseni\\admin\\src\\structures\\BotClient.js\n- E:\\Uverseni\\admin\\src\\structures\\index.js\n- E:\\Uverseni\\admin\\bot.js\n    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1026:15)\n    at Function.Module._resolveFilename (E:\\Uverseni\\admin\\node_modules\\module-alias\\index.js:49:29)\n    at Function.Module._load (node:internal/modules/cjs/loader:871:27)\n    at Module.require (node:internal/modules/cjs/loader:1098:19)\n    at require (node:internal/modules/cjs/helpers:108:18)\n    at Object.<anonymous> (E:\\Uverseni\\admin\\src\\events\\interactions\\tickets.js:5:22)\n    at Module._compile (node:internal/modules/cjs/loader:1196:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1250:10)\n    at Module.load (node:internal/modules/cjs/loader:1074:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:909:12)","code":"MODULE_NOT_FOUND","requireStack":["E:\\Uverseni\\admin\\src\\events\\interactions\\tickets.js","E:\\Uverseni\\admin\\src\\structures\\BotClient.js","E:\\Uverseni\\admin\\src\\structures\\index.js","E:\\Uverseni\\admin\\bot.js"]},"msg":"loadEvent - tickets.js: Cannot find module '../../database/models/tickets'\nRequire stack:\n- E:\\Uverseni\\admin\\src\\events\\interactions\\tickets.js\n- E:\\Uverseni\\admin\\src\\structures\\BotClient.js\n- E:\\Uverseni\\admin\\src\\structures\\index.js\n- E:\\Uverseni\\admin\\bot.js"}
+{"level":30,"time":1686606325758,"pid":9420,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 10 events. Success (9) Failed (1)"}
+{"level":30,"time":1686606325759,"pid":9420,"hostname":"DESKTOP-6JETUDM","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1686606326510,"pid":9420,"hostname":"DESKTOP-6JETUDM","msg":"Mongoose: Connected"}
+{"level":30,"time":1686606328419,"pid":9420,"hostname":"DESKTOP-6JETUDM","msg":"Logged in as Uverseni Admin#3091!"}
+{"level":30,"time":1686606328924,"pid":9420,"hostname":"DESKTOP-6JETUDM","msg":"Successfully registered interactions"}
+{"level":20,"time":1686606960656,"pid":4368,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command leaderboard. Disabled!"}
+{"level":20,"time":1686606960658,"pid":4368,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1686606960695,"pid":4368,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1686606960696,"pid":4368,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command emoji. Disabled!"}
+{"level":20,"time":1686606960697,"pid":4368,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1686606960698,"pid":4368,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1686606960699,"pid":4368,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1686606960707,"pid":4368,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1686606960708,"pid":4368,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1686606960709,"pid":4368,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1686606960709,"pid":4368,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1686606960710,"pid":4368,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1686606960710,"pid":4368,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1686606960711,"pid":4368,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1686606960711,"pid":4368,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1686606960712,"pid":4368,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1686606960713,"pid":4368,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1686606960713,"pid":4368,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1686606960714,"pid":4368,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1686606960716,"pid":4368,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1686606960717,"pid":4368,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1686606960722,"pid":4368,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command rolebuttons. Disabled!"}
+{"level":30,"time":1686606960731,"pid":4368,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 39 commands"}
+{"level":30,"time":1686606960731,"pid":4368,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 25 slash commands"}
+{"level":30,"time":1686606960733,"pid":4368,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1686606960733,"pid":4368,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 0 MESSAGE contexts"}
+{"level":50,"time":1686606960741,"pid":4368,"hostname":"DESKTOP-6JETUDM","err":{"type":"TypeError","message":"event.bind is not a function","stack":"TypeError: event.bind is not a function\n    at E:\\Uverseni\\admin\\src\\structures\\BotClient.js:86:34\n    at Array.forEach (<anonymous>)\n    at BotClient.loadEvents (E:\\Uverseni\\admin\\src\\structures\\BotClient.js:80:37)\n    at Object.<anonymous> (E:\\Uverseni\\admin\\bot.js:20:8)\n    at Module._compile (node:internal/modules/cjs/loader:1196:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1250:10)\n    at Module.load (node:internal/modules/cjs/loader:1074:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:909:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:22:47"},"msg":"loadEvent - tickets.js: event.bind is not a function"}
+{"level":30,"time":1686606960789,"pid":4368,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 10 events. Success (9) Failed (1)"}
+{"level":30,"time":1686606960789,"pid":4368,"hostname":"DESKTOP-6JETUDM","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1686606961947,"pid":4368,"hostname":"DESKTOP-6JETUDM","msg":"Mongoose: Connected"}
+{"level":30,"time":1686606964191,"pid":4368,"hostname":"DESKTOP-6JETUDM","msg":"Logged in as Uverseni Admin#3091!"}
+{"level":30,"time":1686606964594,"pid":4368,"hostname":"DESKTOP-6JETUDM","msg":"Successfully registered interactions"}
+{"level":20,"time":1686607611995,"pid":10236,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command leaderboard. Disabled!"}
+{"level":20,"time":1686607611997,"pid":10236,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1686607612032,"pid":10236,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1686607612033,"pid":10236,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command emoji. Disabled!"}
+{"level":20,"time":1686607612034,"pid":10236,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1686607612035,"pid":10236,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1686607612036,"pid":10236,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1686607612043,"pid":10236,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1686607612044,"pid":10236,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1686607612045,"pid":10236,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1686607612046,"pid":10236,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1686607612046,"pid":10236,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1686607612047,"pid":10236,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1686607612047,"pid":10236,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1686607612048,"pid":10236,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1686607612048,"pid":10236,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1686607612049,"pid":10236,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1686607612050,"pid":10236,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1686607612050,"pid":10236,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1686607612052,"pid":10236,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1686607612053,"pid":10236,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1686607612058,"pid":10236,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command rolebuttons. Disabled!"}
+{"level":30,"time":1686607612068,"pid":10236,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 39 commands"}
+{"level":30,"time":1686607612068,"pid":10236,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 25 slash commands"}
+{"level":30,"time":1686607612069,"pid":10236,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1686607612069,"pid":10236,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 0 MESSAGE contexts"}
+{"level":50,"time":1686607612080,"pid":10236,"hostname":"DESKTOP-6JETUDM","err":{"type":"TypeError","message":"event.bind is not a function","stack":"TypeError: event.bind is not a function\n    at E:\\Uverseni\\admin\\src\\structures\\BotClient.js:86:34\n    at Array.forEach (<anonymous>)\n    at BotClient.loadEvents (E:\\Uverseni\\admin\\src\\structures\\BotClient.js:80:37)\n    at Object.<anonymous> (E:\\Uverseni\\admin\\bot.js:20:8)\n    at Module._compile (node:internal/modules/cjs/loader:1196:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1250:10)\n    at Module.load (node:internal/modules/cjs/loader:1074:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:909:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:22:47"},"msg":"loadEvent - tickets.js: event.bind is not a function"}
+{"level":30,"time":1686607612132,"pid":10236,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 10 events. Success (9) Failed (1)"}
+{"level":30,"time":1686607612132,"pid":10236,"hostname":"DESKTOP-6JETUDM","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1686607612935,"pid":10236,"hostname":"DESKTOP-6JETUDM","msg":"Mongoose: Connected"}
+{"level":30,"time":1686607614943,"pid":10236,"hostname":"DESKTOP-6JETUDM","msg":"Logged in as Uverseni Admin#3091!"}
+{"level":30,"time":1686607615322,"pid":10236,"hostname":"DESKTOP-6JETUDM","msg":"Successfully registered interactions"}
+{"level":20,"time":1686607776853,"pid":9156,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command leaderboard. Disabled!"}
+{"level":20,"time":1686607776855,"pid":9156,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1686607776908,"pid":9156,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1686607776909,"pid":9156,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command emoji. Disabled!"}
+{"level":20,"time":1686607776909,"pid":9156,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1686607776912,"pid":9156,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1686607776913,"pid":9156,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1686607776922,"pid":9156,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1686607776923,"pid":9156,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1686607776924,"pid":9156,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1686607776925,"pid":9156,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1686607776925,"pid":9156,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1686607776926,"pid":9156,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1686607776926,"pid":9156,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1686607776927,"pid":9156,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1686607776927,"pid":9156,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1686607776928,"pid":9156,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1686607776929,"pid":9156,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1686607776930,"pid":9156,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1686607776932,"pid":9156,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1686607776933,"pid":9156,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1686607776938,"pid":9156,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command rolebuttons. Disabled!"}
+{"level":30,"time":1686607776949,"pid":9156,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 39 commands"}
+{"level":30,"time":1686607776949,"pid":9156,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 25 slash commands"}
+{"level":30,"time":1686607776950,"pid":9156,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1686607776950,"pid":9156,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 0 MESSAGE contexts"}
+{"level":50,"time":1686607776991,"pid":9156,"hostname":"DESKTOP-6JETUDM","err":{"type":"Error","message":"Cannot find module '../../database/models/tickets'\nRequire stack:\n- E:\\Uverseni\\admin\\src\\events\\tickets.js\n- E:\\Uverseni\\admin\\src\\structures\\BotClient.js\n- E:\\Uverseni\\admin\\src\\structures\\index.js\n- E:\\Uverseni\\admin\\bot.js","stack":"Error: Cannot find module '../../database/models/tickets'\nRequire stack:\n- E:\\Uverseni\\admin\\src\\events\\tickets.js\n- E:\\Uverseni\\admin\\src\\structures\\BotClient.js\n- E:\\Uverseni\\admin\\src\\structures\\index.js\n- E:\\Uverseni\\admin\\bot.js\n    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1026:15)\n    at Function.Module._resolveFilename (E:\\Uverseni\\admin\\node_modules\\module-alias\\index.js:49:29)\n    at Function.Module._load (node:internal/modules/cjs/loader:871:27)\n    at Module.require (node:internal/modules/cjs/loader:1098:19)\n    at require (node:internal/modules/cjs/helpers:108:18)\n    at Object.<anonymous> (E:\\Uverseni\\admin\\src\\events\\tickets.js:5:22)\n    at Module._compile (node:internal/modules/cjs/loader:1196:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1250:10)\n    at Module.load (node:internal/modules/cjs/loader:1074:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:909:12)","code":"MODULE_NOT_FOUND","requireStack":["E:\\Uverseni\\admin\\src\\events\\tickets.js","E:\\Uverseni\\admin\\src\\structures\\BotClient.js","E:\\Uverseni\\admin\\src\\structures\\index.js","E:\\Uverseni\\admin\\bot.js"]},"msg":"loadEvent - tickets.js: Cannot find module '../../database/models/tickets'\nRequire stack:\n- E:\\Uverseni\\admin\\src\\events\\tickets.js\n- E:\\Uverseni\\admin\\src\\structures\\BotClient.js\n- E:\\Uverseni\\admin\\src\\structures\\index.js\n- E:\\Uverseni\\admin\\bot.js"}
+{"level":30,"time":1686607777009,"pid":9156,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 10 events. Success (9) Failed (1)"}
+{"level":30,"time":1686607777009,"pid":9156,"hostname":"DESKTOP-6JETUDM","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1686607777897,"pid":9156,"hostname":"DESKTOP-6JETUDM","msg":"Mongoose: Connected"}
+{"level":30,"time":1686607779466,"pid":9156,"hostname":"DESKTOP-6JETUDM","msg":"Logged in as Uverseni Admin#3091!"}
+{"level":30,"time":1686607779941,"pid":9156,"hostname":"DESKTOP-6JETUDM","msg":"Successfully registered interactions"}
+{"level":20,"time":1686608221641,"pid":11980,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command leaderboard. Disabled!"}
+{"level":20,"time":1686608221644,"pid":11980,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1686608221694,"pid":11980,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1686608221697,"pid":11980,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command emoji. Disabled!"}
+{"level":20,"time":1686608221699,"pid":11980,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1686608221701,"pid":11980,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1686608221702,"pid":11980,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1686608221711,"pid":11980,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1686608221714,"pid":11980,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1686608221716,"pid":11980,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1686608221717,"pid":11980,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1686608221717,"pid":11980,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1686608221718,"pid":11980,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1686608221718,"pid":11980,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1686608221719,"pid":11980,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1686608221720,"pid":11980,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1686608221721,"pid":11980,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1686608221722,"pid":11980,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1686608221723,"pid":11980,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1686608221726,"pid":11980,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1686608221729,"pid":11980,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1686608221735,"pid":11980,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command rolebuttons. Disabled!"}
+{"level":30,"time":1686608221758,"pid":11980,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 39 commands"}
+{"level":30,"time":1686608221758,"pid":11980,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 25 slash commands"}
+{"level":30,"time":1686608221759,"pid":11980,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1686608221759,"pid":11980,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 0 MESSAGE contexts"}
+{"level":50,"time":1686608221809,"pid":11980,"hostname":"DESKTOP-6JETUDM","err":{"type":"Error","message":"Cannot find module '../../database/models/tickets'\nRequire stack:\n- E:\\Uverseni\\admin\\src\\events\\tickets.js\n- E:\\Uverseni\\admin\\src\\structures\\BotClient.js\n- E:\\Uverseni\\admin\\src\\structures\\index.js\n- E:\\Uverseni\\admin\\bot.js","stack":"Error: Cannot find module '../../database/models/tickets'\nRequire stack:\n- E:\\Uverseni\\admin\\src\\events\\tickets.js\n- E:\\Uverseni\\admin\\src\\structures\\BotClient.js\n- E:\\Uverseni\\admin\\src\\structures\\index.js\n- E:\\Uverseni\\admin\\bot.js\n    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1026:15)\n    at Function.Module._resolveFilename (E:\\Uverseni\\admin\\node_modules\\module-alias\\index.js:49:29)\n    at Function.Module._load (node:internal/modules/cjs/loader:871:27)\n    at Module.require (node:internal/modules/cjs/loader:1098:19)\n    at require (node:internal/modules/cjs/helpers:108:18)\n    at Object.<anonymous> (E:\\Uverseni\\admin\\src\\events\\tickets.js:5:22)\n    at Module._compile (node:internal/modules/cjs/loader:1196:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1250:10)\n    at Module.load (node:internal/modules/cjs/loader:1074:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:909:12)","code":"MODULE_NOT_FOUND","requireStack":["E:\\Uverseni\\admin\\src\\events\\tickets.js","E:\\Uverseni\\admin\\src\\structures\\BotClient.js","E:\\Uverseni\\admin\\src\\structures\\index.js","E:\\Uverseni\\admin\\bot.js"]},"msg":"loadEvent - tickets.js: Cannot find module '../../database/models/tickets'\nRequire stack:\n- E:\\Uverseni\\admin\\src\\events\\tickets.js\n- E:\\Uverseni\\admin\\src\\structures\\BotClient.js\n- E:\\Uverseni\\admin\\src\\structures\\index.js\n- E:\\Uverseni\\admin\\bot.js"}
+{"level":30,"time":1686608221828,"pid":11980,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 10 events. Success (9) Failed (1)"}
+{"level":30,"time":1686608221828,"pid":11980,"hostname":"DESKTOP-6JETUDM","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1686608222671,"pid":11980,"hostname":"DESKTOP-6JETUDM","msg":"Mongoose: Connected"}
+{"level":30,"time":1686608224274,"pid":11980,"hostname":"DESKTOP-6JETUDM","msg":"Logged in as Uverseni Admin#3091!"}
+{"level":30,"time":1686608224766,"pid":11980,"hostname":"DESKTOP-6JETUDM","msg":"Successfully registered interactions"}
+{"level":20,"time":1686608230700,"pid":13112,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command leaderboard. Disabled!"}
+{"level":20,"time":1686608230702,"pid":13112,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1686608230738,"pid":13112,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1686608230739,"pid":13112,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command emoji. Disabled!"}
+{"level":20,"time":1686608230740,"pid":13112,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1686608230742,"pid":13112,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1686608230742,"pid":13112,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1686608230749,"pid":13112,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1686608230751,"pid":13112,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1686608230752,"pid":13112,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1686608230752,"pid":13112,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1686608230753,"pid":13112,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1686608230753,"pid":13112,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1686608230754,"pid":13112,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1686608230754,"pid":13112,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1686608230755,"pid":13112,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1686608230755,"pid":13112,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1686608230756,"pid":13112,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1686608230757,"pid":13112,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1686608230759,"pid":13112,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1686608230759,"pid":13112,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1686608230765,"pid":13112,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command rolebuttons. Disabled!"}
+{"level":30,"time":1686608230773,"pid":13112,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 39 commands"}
+{"level":30,"time":1686608230774,"pid":13112,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 25 slash commands"}
+{"level":30,"time":1686608230775,"pid":13112,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1686608230775,"pid":13112,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 0 MESSAGE contexts"}
+{"level":50,"time":1686608230813,"pid":13112,"hostname":"DESKTOP-6JETUDM","err":{"type":"Error","message":"Cannot find module '../../database/models/tickets'\nRequire stack:\n- E:\\Uverseni\\admin\\src\\events\\tickets.js\n- E:\\Uverseni\\admin\\src\\structures\\BotClient.js\n- E:\\Uverseni\\admin\\src\\structures\\index.js\n- E:\\Uverseni\\admin\\bot.js","stack":"Error: Cannot find module '../../database/models/tickets'\nRequire stack:\n- E:\\Uverseni\\admin\\src\\events\\tickets.js\n- E:\\Uverseni\\admin\\src\\structures\\BotClient.js\n- E:\\Uverseni\\admin\\src\\structures\\index.js\n- E:\\Uverseni\\admin\\bot.js\n    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1026:15)\n    at Function.Module._resolveFilename (E:\\Uverseni\\admin\\node_modules\\module-alias\\index.js:49:29)\n    at Function.Module._load (node:internal/modules/cjs/loader:871:27)\n    at Module.require (node:internal/modules/cjs/loader:1098:19)\n    at require (node:internal/modules/cjs/helpers:108:18)\n    at Object.<anonymous> (E:\\Uverseni\\admin\\src\\events\\tickets.js:5:22)\n    at Module._compile (node:internal/modules/cjs/loader:1196:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1250:10)\n    at Module.load (node:internal/modules/cjs/loader:1074:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:909:12)","code":"MODULE_NOT_FOUND","requireStack":["E:\\Uverseni\\admin\\src\\events\\tickets.js","E:\\Uverseni\\admin\\src\\structures\\BotClient.js","E:\\Uverseni\\admin\\src\\structures\\index.js","E:\\Uverseni\\admin\\bot.js"]},"msg":"loadEvent - tickets.js: Cannot find module '../../database/models/tickets'\nRequire stack:\n- E:\\Uverseni\\admin\\src\\events\\tickets.js\n- E:\\Uverseni\\admin\\src\\structures\\BotClient.js\n- E:\\Uverseni\\admin\\src\\structures\\index.js\n- E:\\Uverseni\\admin\\bot.js"}
+{"level":30,"time":1686608230830,"pid":13112,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 10 events. Success (9) Failed (1)"}
+{"level":30,"time":1686608230831,"pid":13112,"hostname":"DESKTOP-6JETUDM","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1686608231599,"pid":13112,"hostname":"DESKTOP-6JETUDM","msg":"Mongoose: Connected"}
+{"level":30,"time":1686608233033,"pid":13112,"hostname":"DESKTOP-6JETUDM","msg":"Logged in as Uverseni Admin#3091!"}
+{"level":30,"time":1686608233411,"pid":13112,"hostname":"DESKTOP-6JETUDM","msg":"Successfully registered interactions"}
+{"level":20,"time":1686608357989,"pid":11320,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command leaderboard. Disabled!"}
+{"level":20,"time":1686608357991,"pid":11320,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1686608358029,"pid":11320,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1686608358030,"pid":11320,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command emoji. Disabled!"}
+{"level":20,"time":1686608358032,"pid":11320,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1686608358033,"pid":11320,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1686608358034,"pid":11320,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1686608358042,"pid":11320,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1686608358043,"pid":11320,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1686608358044,"pid":11320,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1686608358044,"pid":11320,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1686608358045,"pid":11320,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1686608358045,"pid":11320,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1686608358046,"pid":11320,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1686608358046,"pid":11320,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1686608358047,"pid":11320,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1686608358048,"pid":11320,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1686608358048,"pid":11320,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1686608358049,"pid":11320,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1686608358051,"pid":11320,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1686608358052,"pid":11320,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1686608358058,"pid":11320,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command rolebuttons. Disabled!"}
+{"level":30,"time":1686608358067,"pid":11320,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 39 commands"}
+{"level":30,"time":1686608358068,"pid":11320,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 25 slash commands"}
+{"level":30,"time":1686608358069,"pid":11320,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1686608358069,"pid":11320,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 0 MESSAGE contexts"}
+{"level":50,"time":1686608358078,"pid":11320,"hostname":"DESKTOP-6JETUDM","err":{"type":"TypeError","message":"event.bind is not a function","stack":"TypeError: event.bind is not a function\n    at E:\\Uverseni\\admin\\src\\structures\\BotClient.js:86:34\n    at Array.forEach (<anonymous>)\n    at BotClient.loadEvents (E:\\Uverseni\\admin\\src\\structures\\BotClient.js:80:37)\n    at Object.<anonymous> (E:\\Uverseni\\admin\\bot.js:20:8)\n    at Module._compile (node:internal/modules/cjs/loader:1196:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1250:10)\n    at Module.load (node:internal/modules/cjs/loader:1074:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:909:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:22:47"},"msg":"loadEvent - tickets.js: event.bind is not a function"}
+{"level":30,"time":1686608358131,"pid":11320,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 10 events. Success (9) Failed (1)"}
+{"level":30,"time":1686608358132,"pid":11320,"hostname":"DESKTOP-6JETUDM","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1686608358812,"pid":11320,"hostname":"DESKTOP-6JETUDM","msg":"Mongoose: Connected"}
+{"level":30,"time":1686608360185,"pid":11320,"hostname":"DESKTOP-6JETUDM","msg":"Logged in as Uverseni Admin#3091!"}
+{"level":30,"time":1686608360600,"pid":11320,"hostname":"DESKTOP-6JETUDM","msg":"Successfully registered interactions"}
+{"level":20,"time":1686609437414,"pid":13144,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command leaderboard. Disabled!"}
+{"level":20,"time":1686609437417,"pid":13144,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1686609437468,"pid":13144,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1686609437472,"pid":13144,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command emoji. Disabled!"}
+{"level":20,"time":1686609437477,"pid":13144,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1686609437479,"pid":13144,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1686609437481,"pid":13144,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1686609437495,"pid":13144,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1686609437496,"pid":13144,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1686609437499,"pid":13144,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1686609437499,"pid":13144,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1686609437500,"pid":13144,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1686609437501,"pid":13144,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1686609437502,"pid":13144,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1686609437502,"pid":13144,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1686609437503,"pid":13144,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1686609437504,"pid":13144,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1686609437506,"pid":13144,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1686609437507,"pid":13144,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1686609437509,"pid":13144,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1686609437510,"pid":13144,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1686609437518,"pid":13144,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command rolebuttons. Disabled!"}
+{"level":30,"time":1686609437531,"pid":13144,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 39 commands"}
+{"level":30,"time":1686609437532,"pid":13144,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 25 slash commands"}
+{"level":30,"time":1686609437534,"pid":13144,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1686609437534,"pid":13144,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 0 MESSAGE contexts"}
+{"level":50,"time":1686609437546,"pid":13144,"hostname":"DESKTOP-6JETUDM","err":{"type":"TypeError","message":"event.bind is not a function","stack":"TypeError: event.bind is not a function\n    at E:\\Uverseni\\admin\\src\\structures\\BotClient.js:86:34\n    at Array.forEach (<anonymous>)\n    at BotClient.loadEvents (E:\\Uverseni\\admin\\src\\structures\\BotClient.js:80:37)\n    at Object.<anonymous> (E:\\Uverseni\\admin\\bot.js:20:8)\n    at Module._compile (node:internal/modules/cjs/loader:1196:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1250:10)\n    at Module.load (node:internal/modules/cjs/loader:1074:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:909:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:22:47"},"msg":"loadEvent - tickets.js: event.bind is not a function"}
+{"level":30,"time":1686609437612,"pid":13144,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 10 events. Success (9) Failed (1)"}
+{"level":30,"time":1686609437612,"pid":13144,"hostname":"DESKTOP-6JETUDM","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1686609438657,"pid":13144,"hostname":"DESKTOP-6JETUDM","msg":"Mongoose: Connected"}
+{"level":30,"time":1686609440776,"pid":13144,"hostname":"DESKTOP-6JETUDM","msg":"Logged in as Uverseni Admin#3091!"}
+{"level":30,"time":1686609441335,"pid":13144,"hostname":"DESKTOP-6JETUDM","msg":"Successfully registered interactions"}
+{"level":20,"time":1686609458570,"pid":10832,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command leaderboard. Disabled!"}
+{"level":20,"time":1686609458572,"pid":10832,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1686609458610,"pid":10832,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1686609458611,"pid":10832,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command emoji. Disabled!"}
+{"level":20,"time":1686609458613,"pid":10832,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1686609458615,"pid":10832,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1686609458615,"pid":10832,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1686609458623,"pid":10832,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1686609458625,"pid":10832,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1686609458626,"pid":10832,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1686609458627,"pid":10832,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1686609458627,"pid":10832,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1686609458627,"pid":10832,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1686609458628,"pid":10832,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1686609458629,"pid":10832,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1686609458629,"pid":10832,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1686609458631,"pid":10832,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1686609458632,"pid":10832,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1686609458633,"pid":10832,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1686609458635,"pid":10832,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1686609458636,"pid":10832,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1686609458642,"pid":10832,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command rolebuttons. Disabled!"}
+{"level":30,"time":1686609458651,"pid":10832,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 39 commands"}
+{"level":30,"time":1686609458652,"pid":10832,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 25 slash commands"}
+{"level":30,"time":1686609458653,"pid":10832,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1686609458653,"pid":10832,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 0 MESSAGE contexts"}
+{"level":50,"time":1686609458662,"pid":10832,"hostname":"DESKTOP-6JETUDM","err":{"type":"TypeError","message":"event.bind is not a function","stack":"TypeError: event.bind is not a function\n    at E:\\Uverseni\\admin\\src\\structures\\BotClient.js:86:34\n    at Array.forEach (<anonymous>)\n    at BotClient.loadEvents (E:\\Uverseni\\admin\\src\\structures\\BotClient.js:80:37)\n    at Object.<anonymous> (E:\\Uverseni\\admin\\bot.js:20:8)\n    at Module._compile (node:internal/modules/cjs/loader:1196:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1250:10)\n    at Module.load (node:internal/modules/cjs/loader:1074:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:909:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:22:47"},"msg":"loadEvent - tickets.js: event.bind is not a function"}
+{"level":30,"time":1686609458731,"pid":10832,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 10 events. Success (9) Failed (1)"}
+{"level":30,"time":1686609458731,"pid":10832,"hostname":"DESKTOP-6JETUDM","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1686609459188,"pid":10832,"hostname":"DESKTOP-6JETUDM","msg":"Mongoose: Connected"}
+{"level":30,"time":1686609461304,"pid":10832,"hostname":"DESKTOP-6JETUDM","msg":"Logged in as Uverseni Admin#3091!"}
+{"level":30,"time":1686609461730,"pid":10832,"hostname":"DESKTOP-6JETUDM","msg":"Successfully registered interactions"}
+{"level":20,"time":1686609479388,"pid":492,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command leaderboard. Disabled!"}
+{"level":20,"time":1686609479390,"pid":492,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1686609479427,"pid":492,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1686609479428,"pid":492,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command emoji. Disabled!"}
+{"level":20,"time":1686609479429,"pid":492,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1686609479430,"pid":492,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1686609479431,"pid":492,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1686609479438,"pid":492,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1686609479440,"pid":492,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1686609479441,"pid":492,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1686609479441,"pid":492,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1686609479442,"pid":492,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1686609479442,"pid":492,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1686609479443,"pid":492,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1686609479443,"pid":492,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1686609479443,"pid":492,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1686609479444,"pid":492,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1686609479445,"pid":492,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1686609479446,"pid":492,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1686609479447,"pid":492,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1686609479448,"pid":492,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1686609479454,"pid":492,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command rolebuttons. Disabled!"}
+{"level":30,"time":1686609479463,"pid":492,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 39 commands"}
+{"level":30,"time":1686609479463,"pid":492,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 25 slash commands"}
+{"level":30,"time":1686609479464,"pid":492,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1686609479464,"pid":492,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1686609479520,"pid":492,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 9 events. Success (9) Failed (0)"}
+{"level":30,"time":1686609479520,"pid":492,"hostname":"DESKTOP-6JETUDM","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1686609480130,"pid":492,"hostname":"DESKTOP-6JETUDM","msg":"Mongoose: Connected"}
+{"level":30,"time":1686609481383,"pid":492,"hostname":"DESKTOP-6JETUDM","msg":"Logged in as Uverseni Admin#3091!"}
+{"level":30,"time":1686609481827,"pid":492,"hostname":"DESKTOP-6JETUDM","msg":"Successfully registered interactions"}
+{"level":20,"time":1686609985258,"pid":11948,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command leaderboard. Disabled!"}
+{"level":20,"time":1686609985262,"pid":11948,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1686609985304,"pid":11948,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1686609985306,"pid":11948,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command emoji. Disabled!"}
+{"level":20,"time":1686609985307,"pid":11948,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1686609985308,"pid":11948,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1686609985309,"pid":11948,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1686609985318,"pid":11948,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1686609985320,"pid":11948,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1686609985321,"pid":11948,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1686609985321,"pid":11948,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1686609985322,"pid":11948,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1686609985322,"pid":11948,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1686609985323,"pid":11948,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1686609985324,"pid":11948,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1686609985324,"pid":11948,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1686609985325,"pid":11948,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1686609985326,"pid":11948,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1686609985327,"pid":11948,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1686609985328,"pid":11948,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1686609985329,"pid":11948,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1686609985335,"pid":11948,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command rolebuttons. Disabled!"}
+{"level":30,"time":1686609985349,"pid":11948,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 39 commands"}
+{"level":30,"time":1686609985349,"pid":11948,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 25 slash commands"}
+{"level":30,"time":1686609985351,"pid":11948,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1686609985351,"pid":11948,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1686609985405,"pid":11948,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 9 events. Success (9) Failed (0)"}
+{"level":30,"time":1686609985405,"pid":11948,"hostname":"DESKTOP-6JETUDM","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1686609986411,"pid":11948,"hostname":"DESKTOP-6JETUDM","msg":"Mongoose: Connected"}
+{"level":30,"time":1686609988612,"pid":11948,"hostname":"DESKTOP-6JETUDM","msg":"Logged in as Uverseni Admin#3091!"}
+{"level":30,"time":1686609989021,"pid":11948,"hostname":"DESKTOP-6JETUDM","msg":"Successfully registered interactions"}
+{"level":20,"time":1686610111052,"pid":11936,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command leaderboard. Disabled!"}
+{"level":20,"time":1686610111054,"pid":11936,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1686610111093,"pid":11936,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1686610111094,"pid":11936,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command emoji. Disabled!"}
+{"level":20,"time":1686610111095,"pid":11936,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1686610111097,"pid":11936,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1686610111097,"pid":11936,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1686610111105,"pid":11936,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1686610111106,"pid":11936,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1686610111107,"pid":11936,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1686610111107,"pid":11936,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1686610111108,"pid":11936,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1686610111108,"pid":11936,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1686610111109,"pid":11936,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1686610111110,"pid":11936,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1686610111110,"pid":11936,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1686610111111,"pid":11936,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1686610111112,"pid":11936,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1686610111113,"pid":11936,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1686610111116,"pid":11936,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1686610111117,"pid":11936,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1686610111122,"pid":11936,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command rolebuttons. Disabled!"}
+{"level":30,"time":1686610111131,"pid":11936,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 39 commands"}
+{"level":30,"time":1686610111131,"pid":11936,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 25 slash commands"}
+{"level":30,"time":1686610111132,"pid":11936,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1686610111132,"pid":11936,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1686610111189,"pid":11936,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 9 events. Success (9) Failed (0)"}
+{"level":30,"time":1686610111190,"pid":11936,"hostname":"DESKTOP-6JETUDM","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1686610112210,"pid":11936,"hostname":"DESKTOP-6JETUDM","msg":"Mongoose: Connected"}
+{"level":30,"time":1686610113736,"pid":11936,"hostname":"DESKTOP-6JETUDM","msg":"Logged in as Uverseni Admin#3091!"}
+{"level":30,"time":1686610114110,"pid":11936,"hostname":"DESKTOP-6JETUDM","msg":"Successfully registered interactions"}
+{"level":20,"time":1686610411977,"pid":4860,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command leaderboard. Disabled!"}
+{"level":20,"time":1686610411979,"pid":4860,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1686610412020,"pid":4860,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1686610412021,"pid":4860,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command emoji. Disabled!"}
+{"level":20,"time":1686610412022,"pid":4860,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1686610412023,"pid":4860,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1686610412025,"pid":4860,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1686610412033,"pid":4860,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1686610412034,"pid":4860,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1686610412035,"pid":4860,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1686610412036,"pid":4860,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1686610412037,"pid":4860,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1686610412037,"pid":4860,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1686610412038,"pid":4860,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1686610412038,"pid":4860,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1686610412039,"pid":4860,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1686610412040,"pid":4860,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1686610412041,"pid":4860,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1686610412041,"pid":4860,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1686610412043,"pid":4860,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1686610412044,"pid":4860,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1686610412050,"pid":4860,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command rolebuttons. Disabled!"}
+{"level":30,"time":1686610412061,"pid":4860,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 39 commands"}
+{"level":30,"time":1686610412061,"pid":4860,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 25 slash commands"}
+{"level":30,"time":1686610412062,"pid":4860,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1686610412062,"pid":4860,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1686610412117,"pid":4860,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 9 events. Success (9) Failed (0)"}
+{"level":30,"time":1686610412118,"pid":4860,"hostname":"DESKTOP-6JETUDM","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1686610413647,"pid":4860,"hostname":"DESKTOP-6JETUDM","msg":"Mongoose: Connected"}
+{"level":30,"time":1686610415815,"pid":4860,"hostname":"DESKTOP-6JETUDM","msg":"Logged in as Uverseni Admin#3091!"}
+{"level":30,"time":1686610416186,"pid":4860,"hostname":"DESKTOP-6JETUDM","msg":"Successfully registered interactions"}
+{"level":20,"time":1686610555264,"pid":2312,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command leaderboard. Disabled!"}
+{"level":20,"time":1686610555268,"pid":2312,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1686610555317,"pid":2312,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1686610555318,"pid":2312,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command emoji. Disabled!"}
+{"level":20,"time":1686610555319,"pid":2312,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1686610555321,"pid":2312,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1686610555322,"pid":2312,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1686610555332,"pid":2312,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1686610555337,"pid":2312,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1686610555338,"pid":2312,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1686610555339,"pid":2312,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1686610555339,"pid":2312,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1686610555340,"pid":2312,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1686610555340,"pid":2312,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1686610555341,"pid":2312,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1686610555341,"pid":2312,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1686610555342,"pid":2312,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1686610555343,"pid":2312,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1686610555344,"pid":2312,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1686610555346,"pid":2312,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1686610555347,"pid":2312,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1686610555353,"pid":2312,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command rolebuttons. Disabled!"}
+{"level":30,"time":1686610555365,"pid":2312,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 39 commands"}
+{"level":30,"time":1686610555365,"pid":2312,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 25 slash commands"}
+{"level":30,"time":1686610555367,"pid":2312,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1686610555367,"pid":2312,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1686610555449,"pid":2312,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 9 events. Success (9) Failed (0)"}
+{"level":30,"time":1686610555449,"pid":2312,"hostname":"DESKTOP-6JETUDM","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1686610556739,"pid":2312,"hostname":"DESKTOP-6JETUDM","msg":"Mongoose: Connected"}
+{"level":20,"time":1686610558904,"pid":9068,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command leaderboard. Disabled!"}
+{"level":20,"time":1686610558906,"pid":9068,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1686610558952,"pid":9068,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1686610558953,"pid":9068,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command emoji. Disabled!"}
+{"level":20,"time":1686610558954,"pid":9068,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1686610558957,"pid":9068,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1686610558958,"pid":9068,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1686610558968,"pid":9068,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1686610558969,"pid":9068,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1686610558970,"pid":9068,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1686610558970,"pid":9068,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1686610558971,"pid":9068,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1686610558971,"pid":9068,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1686610558972,"pid":9068,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1686610558972,"pid":9068,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1686610558973,"pid":9068,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1686610558974,"pid":9068,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1686610558975,"pid":9068,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1686610558976,"pid":9068,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1686610558978,"pid":9068,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1686610558979,"pid":9068,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1686610558986,"pid":9068,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command rolebuttons. Disabled!"}
+{"level":30,"time":1686610558997,"pid":9068,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 39 commands"}
+{"level":30,"time":1686610558997,"pid":9068,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 25 slash commands"}
+{"level":30,"time":1686610558999,"pid":9068,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1686610558999,"pid":9068,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1686610559075,"pid":9068,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 9 events. Success (9) Failed (0)"}
+{"level":30,"time":1686610559076,"pid":9068,"hostname":"DESKTOP-6JETUDM","msg":"Connecting to MongoDb..."}
+{"level":20,"time":1686610560732,"pid":12624,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command leaderboard. Disabled!"}
+{"level":20,"time":1686610560734,"pid":12624,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1686610560778,"pid":12624,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1686610560779,"pid":12624,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command emoji. Disabled!"}
+{"level":20,"time":1686610560779,"pid":12624,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1686610560781,"pid":12624,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1686610560782,"pid":12624,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1686610560790,"pid":12624,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1686610560791,"pid":12624,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1686610560792,"pid":12624,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1686610560792,"pid":12624,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1686610560793,"pid":12624,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1686610560793,"pid":12624,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1686610560794,"pid":12624,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1686610560795,"pid":12624,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1686610560796,"pid":12624,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1686610560797,"pid":12624,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1686610560798,"pid":12624,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1686610560799,"pid":12624,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1686610560801,"pid":12624,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1686610560802,"pid":12624,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1686610560809,"pid":12624,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command rolebuttons. Disabled!"}
+{"level":30,"time":1686610560818,"pid":12624,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 39 commands"}
+{"level":30,"time":1686610560818,"pid":12624,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 25 slash commands"}
+{"level":30,"time":1686610560819,"pid":12624,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1686610560819,"pid":12624,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1686610560886,"pid":12624,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 9 events. Success (9) Failed (0)"}
+{"level":30,"time":1686610560887,"pid":12624,"hostname":"DESKTOP-6JETUDM","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1686610561423,"pid":12624,"hostname":"DESKTOP-6JETUDM","msg":"Mongoose: Connected"}
+{"level":30,"time":1686610562745,"pid":12624,"hostname":"DESKTOP-6JETUDM","msg":"Logged in as Uverseni Admin#3091!"}
+{"level":30,"time":1686610563260,"pid":12624,"hostname":"DESKTOP-6JETUDM","msg":"Successfully registered interactions"}
+{"level":20,"time":1686610711102,"pid":11156,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command leaderboard. Disabled!"}
+{"level":20,"time":1686610711104,"pid":11156,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1686610711142,"pid":11156,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1686610711144,"pid":11156,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command emoji. Disabled!"}
+{"level":20,"time":1686610711145,"pid":11156,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1686610711146,"pid":11156,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1686610711147,"pid":11156,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1686610711155,"pid":11156,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1686610711156,"pid":11156,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1686610711157,"pid":11156,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1686610711158,"pid":11156,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1686610711158,"pid":11156,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1686610711159,"pid":11156,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1686610711159,"pid":11156,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1686610711160,"pid":11156,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1686610711160,"pid":11156,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1686610711161,"pid":11156,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1686610711162,"pid":11156,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1686610711162,"pid":11156,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1686610711164,"pid":11156,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1686610711166,"pid":11156,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1686610711174,"pid":11156,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command rolebuttons. Disabled!"}
+{"level":30,"time":1686610711183,"pid":11156,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 39 commands"}
+{"level":30,"time":1686610711184,"pid":11156,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 25 slash commands"}
+{"level":30,"time":1686610711185,"pid":11156,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1686610711185,"pid":11156,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1686610711239,"pid":11156,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 9 events. Success (9) Failed (0)"}
+{"level":30,"time":1686610711239,"pid":11156,"hostname":"DESKTOP-6JETUDM","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1686610712364,"pid":11156,"hostname":"DESKTOP-6JETUDM","msg":"Mongoose: Connected"}
+{"level":30,"time":1686610714482,"pid":11156,"hostname":"DESKTOP-6JETUDM","msg":"Logged in as Uverseni Admin#3091!"}
+{"level":30,"time":1686610715183,"pid":11156,"hostname":"DESKTOP-6JETUDM","msg":"Successfully registered interactions"}
+{"level":20,"time":1686611133700,"pid":2572,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command leaderboard. Disabled!"}
+{"level":20,"time":1686611133702,"pid":2572,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1686611133744,"pid":2572,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1686611133745,"pid":2572,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command emoji. Disabled!"}
+{"level":20,"time":1686611133747,"pid":2572,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1686611133749,"pid":2572,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1686611133750,"pid":2572,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1686611133761,"pid":2572,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1686611133762,"pid":2572,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1686611133764,"pid":2572,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1686611133764,"pid":2572,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1686611133765,"pid":2572,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1686611133765,"pid":2572,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1686611133766,"pid":2572,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1686611133767,"pid":2572,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1686611133767,"pid":2572,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1686611133769,"pid":2572,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1686611133770,"pid":2572,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1686611133771,"pid":2572,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1686611133774,"pid":2572,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1686611133775,"pid":2572,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1686611133783,"pid":2572,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command rolebuttons. Disabled!"}
+{"level":30,"time":1686611133800,"pid":2572,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 39 commands"}
+{"level":30,"time":1686611133801,"pid":2572,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 25 slash commands"}
+{"level":30,"time":1686611133802,"pid":2572,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1686611133802,"pid":2572,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1686611133857,"pid":2572,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 9 events. Success (9) Failed (0)"}
+{"level":30,"time":1686611133857,"pid":2572,"hostname":"DESKTOP-6JETUDM","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1686611134855,"pid":2572,"hostname":"DESKTOP-6JETUDM","msg":"Mongoose: Connected"}
+{"level":30,"time":1686611136673,"pid":2572,"hostname":"DESKTOP-6JETUDM","msg":"Logged in as Uverseni Admin#3091!"}
+{"level":30,"time":1686611137081,"pid":2572,"hostname":"DESKTOP-6JETUDM","msg":"Successfully registered interactions"}
+{"level":20,"time":1686611806881,"pid":9228,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command leaderboard. Disabled!"}
+{"level":20,"time":1686611806885,"pid":9228,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1686611806950,"pid":9228,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1686611806951,"pid":9228,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command emoji. Disabled!"}
+{"level":20,"time":1686611806953,"pid":9228,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1686611806955,"pid":9228,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1686611806956,"pid":9228,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1686611806969,"pid":9228,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1686611806970,"pid":9228,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1686611806972,"pid":9228,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1686611806973,"pid":9228,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1686611806975,"pid":9228,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1686611806976,"pid":9228,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1686611806977,"pid":9228,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1686611806978,"pid":9228,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1686611806979,"pid":9228,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1686611806980,"pid":9228,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1686611806981,"pid":9228,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1686611806982,"pid":9228,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1686611806985,"pid":9228,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1686611806986,"pid":9228,"hostname":"DESKTOP-6JETUDM","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1686611806995,"pid":9228,"hostname":"DESKTOP-6JETUDM","msg":"Skipping slash command rolebuttons. Disabled!"}
+{"level":30,"time":1686611807010,"pid":9228,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 39 commands"}
+{"level":30,"time":1686611807010,"pid":9228,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 25 slash commands"}
+{"level":30,"time":1686611807012,"pid":9228,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1686611807012,"pid":9228,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1686611807083,"pid":9228,"hostname":"DESKTOP-6JETUDM","msg":"Loaded 9 events. Success (9) Failed (0)"}
+{"level":30,"time":1686611807083,"pid":9228,"hostname":"DESKTOP-6JETUDM","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1686611808354,"pid":9228,"hostname":"DESKTOP-6JETUDM","msg":"Mongoose: Connected"}
+{"level":30,"time":1686611810229,"pid":9228,"hostname":"DESKTOP-6JETUDM","msg":"Logged in as Uverseni Admin#3091!"}
+{"level":30,"time":1686611810625,"pid":9228,"hostname":"DESKTOP-6JETUDM","msg":"Successfully registered interactions"}

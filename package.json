@@ -1,0 +1,83 @@
+{
+  "name": "eni",
+  "version": "1.0.0",
+  "description": "Multipurpose discord bot built using discord-js",
+  "main": "bot.js",
+  "author": "Kyy",
+  "license": "MIT",
+  "engines": {
+    "node": ">=16.9.0"
+  },
+  "scripts": {
+    "dev": "nodemon .",
+    "start": "node ."
+  },
+  "dependencies": {
+    "@napi-rs/canvas": "^0.1.41",
+    "@vitalets/google-translate-api": "^9.2.0",
+    "ascii-table": "^0.0.9",
+    "btoa": "^1.2.1",
+    "canvacord": "^5.4.9",
+    "common-tags": "^1.8.2",
+    "country-emoji-languages": "^1.0.0",
+    "discord-buttons": "^4.0.0-deprecated",
+    "discord-canvas": "^1.5.2",
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.0.3",
+    "ejs": "^3.1.8",
+    "enhanced-ms": "^1.0.2",
+    "express": "^4.18.1",
+    "express-session": "^1.17.3",
+    "fixedsize-map": "^1.0.1",
+    "fs": "^0.0.2",
+    "iso-639-1": "^2.1.15",
+    "module-alias": "^2.2.2",
+    "moment": "^2.29.4",
+    "mongoose": "^6.5.0",
+    "nekos.life": "^3.0.0",
+    "node-fetch": "^2.6.1",
+    "os": "^0.1.2",
+    "path": "^0.12.7",
+    "pino": "^8.3.1",
+    "pino-pretty": "^8.1.0",
+    "pretty-ms": "^7.0.1",
+    "snakecord": "^1.0.9",
+    "sourcebin_js": "^0.0.3-ignore",
+    "string-progressbar": "^1.0.4",
+    "table": "^6.8.0",
+    "timestamp-to-date": "^1.1.0",
+    "top.gg": "^2.3.2",
+    "twemoji-parser": "^14.0.0",
+    "ultrax": "^2.0.5",
+    "undici": "^5.11.0"
+  },
+  "optionalDependencies": {
+    "bufferutil": "^4.0.6",
+    "erlpack": "^0.1.4",
+    "utf-8-validate": "^5.0.9",
+    "zlib-sync": "^0.1.7"
+  },
+  "devDependencies": {
+    "eslint": "^8.23.0",
+    "eslint-plugin-jsdoc": "^39.3.6",
+    "node": "^16.9.0",
+    "nodemon": "^2.0.20",
+    "prettier": "2.7.1"
+  },
+  "keywords": [
+    "discord",
+    "discord.js",
+    "discord-bot",
+    "bot",
+    "multipurpose",
+    "multi-purpose-bot"
+  ],
+  "_moduleAliases": {
+    "@root": ".",
+    "@handlers": "src/handlers/",
+    "@helpers": "src/helpers/",
+    "@schemas": "src/database/schemas/",
+    "@src": "src/",
+    "@structures": "src/structures/"
+  }
+}
